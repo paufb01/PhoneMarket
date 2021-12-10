@@ -1,0 +1,27 @@
+Nom i Cognoms: Pau Barragan
+NIF: 21040029C
+Telèfon: 12345678
+Data de facturació:  9/12/2021 19:59:23
+------------------------
+
+ 
+ Compra:
+------------------------
+
+------------------------
+Nom del model: Apple iPhone 13 PRO
+Preu: 1990€
+Quantitat: 1
+Preu total: 1990€
+
+------------------------
+Nom del model: Apple iPhone 12 PRO
+Preu: 1143€
+Quantitat: 12
+Preu total: 13716€
+
+------------------------
+Nom del model: Apple iPhone 12 Mini
+Preu: 850€
+Quantitat: 2
+Preu total: 1700€

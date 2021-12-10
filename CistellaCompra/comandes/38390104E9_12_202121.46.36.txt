@@ -1,0 +1,21 @@
+Nom i Cognoms: Maria Carne
+NIF: 38390104E
+Telèfon: 12345678
+Data de facturació:  9/12/2021 21:46:36
+------------------------
+
+ 
+ Compra:
+------------------------
+
+------------------------
+Nom del model: Apple iPhone 13 PRO
+Preu: 1990€
+Quantitat: 4
+Preu total: 7960€
+
+------------------------
+Nom del model: Apple iPhone 12 PRO
+Preu: 1143€
+Quantitat: 3
+Preu total: 3429€

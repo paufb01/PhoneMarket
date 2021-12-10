@@ -1,0 +1,63 @@
+﻿
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+body {
+    background: #FAFAFA;
+    height: auto;
+}
+
+.panel1 {
+    height: 10%;
+    background: #0071E3;
+ }
+
+.panel2 {
+    height: 60px;
+    background: #333333;
+    display: flex;
+    align-items: center;
+    padding: 5px;
+}
+
+#Label10 {
+    margin-bottom: 5px;
+
+}
+#productos {
+    display: inline;
+    align-content: center;
+    justify-content: center;
+    height: auto;
+    width: 100%;
+    text-align: center;
+}
+
+.item {
+    width: 20%;
+    height: 562px;
+    border: 3px solid black;
+    display: inline-block;
+}
+
+div{
+    text-align: center;
+    
+}
+
+.btnAfegir {
+    background: #333333;
+    color: #FAFAFA;
+    height:  40px;
+    width: 95px;
+    border-radius: 6px;
+}
+
+
+    .btnAfegir:hover {
+        background: #0071E3;
+        color: #FAFAFA;
+        cursor: pointer;
+        transition-duration: 0.2s;
+    }

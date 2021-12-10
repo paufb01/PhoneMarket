@@ -1,0 +1,91 @@
+﻿
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+body {
+    background: #FAFAFA;
+    height: 800px;
+}
+
+.panel1 {
+    height: 10%;
+    background: #0071E3;
+}
+
+
+h1 {
+    color: #FAFAFA;
+    font-size: 30px;
+    text-align: center;
+}
+
+
+.panel2 {
+    border: 3px solid red;
+    height: 60px;
+    background: #333333;
+}
+
+
+.fila{
+    height: auto;
+    width: 100%;
+    margin-top: 10px;
+    padding: 10px;
+    text-align: center;
+    display: block;
+
+}
+
+.btnBack {
+    height: 60px;
+    width: 100px;
+    color: #0071E3;
+}
+
+    .btnBack:hover {
+        cursor: pointer;
+        transition-duration: 0.5s;
+        background: #0071E3;
+        color: #FAFAFA;
+    }
+
+
+.btnComanda {
+    background: #333333;
+    color: #FAFAFA;
+    cursor: pointer;
+    font-weight: 700;
+    font-size: large;
+    border-radius: 5px;
+}
+
+.btnComanda:hover {
+    background: #0071E3;
+    color: #FAFAFA;
+    cursor: pointer;
+    transition-duration: 0.2s;
+}
+
+table{
+    text-align: left;
+    margin-left: 25%;
+    height: 150px;
+    padding: 10px;
+
+}
+
+td{
+    height: 70px;
+    width: 250px; 
+}
+
+
+
+.textbox{
+    height: 30px;
+
+}
+
+    
